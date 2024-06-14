@@ -1,3 +1,5 @@
+[Despliegue]=
+[Video]=https://drive.google.com/file/d/15PB6mC84ebBROFZ4KSTad-CIZIGBvoXZ/view?usp=sharing
 # Proyecto usado para el amacenamiento 
 ![image](https://github.com/iveth-cocha/Prueba1/assets/117743828/f7f8037b-0650-49bd-89e7-915565d1e337)
 <br>
@@ -17,5 +19,19 @@
   ![image](https://github.com/iveth-cocha/Prueba1/assets/117743828/4b99345a-f7d4-4f06-9c95-e44fe5cd011b)<br>
 
 ## VERSION WEB
+* Pagina de login y Registro <br>
+![image](https://github.com/iveth-cocha/Prueba1/assets/117743828/f68eb0b9-4e49-4431-b342-60b1487700eb)
+![image](https://github.com/iveth-cocha/Prueba1/assets/117743828/5c9c8c9f-4499-40b5-943c-e0c75ed620fa)<br>
+
+
+* Pagina inicial <br>
+![image](https://github.com/iveth-cocha/Prueba1/assets/117743828/ce4795fa-83ba-4d2e-97e8-5e8e7f6a4dac)<br>
+
+* Información del usuario logueado <br>
+![image](https://github.com/iveth-cocha/Prueba1/assets/117743828/b3c8cc46-3d44-44d6-9225-86bb25dc5bd9) <br>
+
+* Moldal para generar el post <br>
+![image](https://github.com/iveth-cocha/Prueba1/assets/117743828/6f0859ca-8ae7-435b-b358-1ff52b5cd922) <br>
+
 
 

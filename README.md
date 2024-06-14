@@ -1,5 +1,5 @@
 [Despliegue]=
-[Video]=https://drive.google.com/file/d/15PB6mC84ebBROFZ4KSTad-CIZIGBvoXZ/view?usp=sharing
+[Video](https://drive.google.com/file/d/15PB6mC84ebBROFZ4KSTad-CIZIGBvoXZ/view?usp=sharing)
 # Proyecto usado para el amacenamiento 
 ![image](https://github.com/iveth-cocha/Prueba1/assets/117743828/f7f8037b-0650-49bd-89e7-915565d1e337)
 <br>
